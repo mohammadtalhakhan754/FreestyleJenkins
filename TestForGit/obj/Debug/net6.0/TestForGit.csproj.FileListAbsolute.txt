@@ -1,0 +1,15 @@
+C:\Users\talhakhan\Desktop\TestForGit\TestForGit\bin\Debug\net6.0\TestForGit.exe
+C:\Users\talhakhan\Desktop\TestForGit\TestForGit\bin\Debug\net6.0\TestForGit.deps.json
+C:\Users\talhakhan\Desktop\TestForGit\TestForGit\bin\Debug\net6.0\TestForGit.runtimeconfig.json
+C:\Users\talhakhan\Desktop\TestForGit\TestForGit\bin\Debug\net6.0\TestForGit.dll
+C:\Users\talhakhan\Desktop\TestForGit\TestForGit\bin\Debug\net6.0\TestForGit.pdb
+C:\Users\talhakhan\Desktop\TestForGit\TestForGit\obj\Debug\net6.0\TestForGit.csproj.AssemblyReference.cache
+C:\Users\talhakhan\Desktop\TestForGit\TestForGit\obj\Debug\net6.0\TestForGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talhakhan\Desktop\TestForGit\TestForGit\obj\Debug\net6.0\TestForGit.AssemblyInfoInputs.cache
+C:\Users\talhakhan\Desktop\TestForGit\TestForGit\obj\Debug\net6.0\TestForGit.AssemblyInfo.cs
+C:\Users\talhakhan\Desktop\TestForGit\TestForGit\obj\Debug\net6.0\TestForGit.csproj.CoreCompileInputs.cache
+C:\Users\talhakhan\Desktop\TestForGit\TestForGit\obj\Debug\net6.0\TestForGit.dll
+C:\Users\talhakhan\Desktop\TestForGit\TestForGit\obj\Debug\net6.0\refint\TestForGit.dll
+C:\Users\talhakhan\Desktop\TestForGit\TestForGit\obj\Debug\net6.0\TestForGit.pdb
+C:\Users\talhakhan\Desktop\TestForGit\TestForGit\obj\Debug\net6.0\TestForGit.genruntimeconfig.cache
+C:\Users\talhakhan\Desktop\TestForGit\TestForGit\obj\Debug\net6.0\ref\TestForGit.dll
